@@ -1,6 +1,6 @@
 # jango_dotnetCoreEF
-dotnet core with ef  for mysql
+dotnet core with ef  for sqllist
 
-dotnet core with dapper for mysql 
+dotnet core with multiple db 
 
 
